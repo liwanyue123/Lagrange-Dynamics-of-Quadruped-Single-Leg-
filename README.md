@@ -1,4 +1,4 @@
-# README: Quadruped Robot Single-Leg Lagrangian Symbolic Formulas Generator
+# Quadruped Robot Single-Leg Lagrangian Symbolic Formulas Generator
 
 This MATLAB program generates symbolic Lagrangian formulas for a single leg of a quadruped robot.
 With just one click, the code calculates the kinetic energy, potential energy, and the torque required for each joint.
